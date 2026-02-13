@@ -1,6 +1,6 @@
 cask "typepaste" do
-  version "0.0.0"
-  sha256 "REPLACE_ME"
+  version "1.0.2"
+  sha256 "e07a5bdbbbe79d0aa23569e66cb8286dac7a626e4fc47fd83832e716d56d1ef4"
 
   url "https://github.com/trinixlabs/typepaste/releases/download/#{version}/TypePaste-#{version}.dmg"
   name "TypePaste"
