@@ -1,8 +1,8 @@
 cask "typepaste" do
-  version "1.0.2"
-  sha256 "e07a5bdbbbe79d0aa23569e66cb8286dac7a626e4fc47fd83832e716d56d1ef4"
+  version "1.1.0"
+  sha256 "4db8fa4530906637bb7637ccf1f9179729f5ef61bfacb2496981e4ed398dd96d"
 
-  url "https://github.com/trinixlabs/typepaste/releases/download/#{version}/TypePaste-#{version}.dmg"
+  url "https://github.com/trinixlabs/typepaste/releases/download/1.1.0/TypePaste-1.1.0.dmg"
   name "TypePaste"
   desc "Instant typing from your clipboard"
   homepage "https://github.com/trinixlabs/typepaste"
